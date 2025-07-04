@@ -15,22 +15,22 @@ The stock market is one of the most dynamic and complex fields of finance, where
 
 ## Screenshots
 ### Main Interface
-![Main App Interface](images/app_screenshot_main.png)
+<img src="images/app_screenshot_main.png" alt="Main App Interface" width="100%">
 
 ### Prediction Output
-![Prediction Results](images/app_screenshot_prediction.png)
+<img src="images/app_screenshot_prediction.png" alt="Prediction Results" width="100%">
 
 ### Technical Indicators
-![Technical Indicators Chart](images/app_screenshot_indicators.png)
+<img src="images/app_screenshot_indicators.png" alt="Technical Indicators Chart" width="100%">
 
 ### User-Case Diagram
-![User-Case Diagram](images/user_case_diagram.png)
+<img src="images/user_case_diagram.png" alt="User-Case Diagram" width="100%">
 
 ### Architecture Diagram
-![Architecture Diagram](images/architecture_diagram.png)
+<img src="images/architecture_diagram.png" alt="Architecture Diagram" width="100%">
 
 ### Dataset Screenshot
-![Dataset Screenshot](images/dataset_screenshot.png)
+<img src="images/dataset_screenshot.png" alt="Dataset Screenshot" width="100%">
 
 ## Technologies Used
 * Python
@@ -61,8 +61,22 @@ The stock market is one of the most dynamic and complex fields of finance, where
 * [Full Project Report (PDF)](docs/Stock_Price_Prediction_Report.pdf)
 * [Project Presentation (PDF)](docs/Stock_Price_Prediction_Presentation.pdf)
 
+## Future Enhancements
+The completion of this stock price prediction project opens up possibilities for future enhancements and expansions. Here are some potential avenues for further work:
+
+* **Advanced Machine Learning Models:** Explore the application of more advanced machine learning models for stock price prediction, such as ensemble methods (Random Forest, Gradient Boosting), support vector machines (SVM), or deep learning architectures (Recurrent Neural Networks, Convolutional Neural Networks). Compare the performance of these models with the existing linear regression model to identify which approach yields better accuracy.
+* **Feature Engineering:** Investigate additional features and indicators that can be incorporated into the prediction model. Consider fundamental data, news sentiment analysis, economic indicators, or social media sentiment to capture a wider range of factors influencing stock prices. Feature selection techniques and domain expertise can help identify the most relevant features for improving prediction accuracy.
+* **Hyperparameter Tuning:** Perform extensive hyperparameter tuning for the machine learning models. Utilize techniques such as grid search, random search, or Bayesian optimization to find the optimal combination of hyperparameters that maximize prediction performance. Fine-tuning the models can lead to improved accuracy and generalization.
+* **Ensemble Methods:** Explore ensemble techniques, such as model stacking or model averaging, to combine predictions from multiple models. Ensemble methods can often enhance the stability and robustness of predictions, particularly when dealing with volatile or noisy stock market data.
+* **Deployment and Scalability:** Optimize the application for scalability to handle larger datasets and increasing user demands. Consider deploying the application on cloud platforms or containerized environments to ensure efficient resource utilization and accommodate a growing user base.
+* **Real-time Data Integration:** Integrate real-time data feeds or APIs to provide users with up-to-date stock market information. This could include live streaming of stock prices, news updates, or social media sentiment analysis. Real-time data integration can enhance the application's value and keep users informed about market changes.
+* **User Feedback and Iterative Improvement:** Gather feedback from users and incorporate their suggestions to enhance the application's usability and functionality. Conduct user testing sessions to identify pain points, understand user needs, and refine the user interface. Iteratively improve the application based on user feedback to ensure it meets the requirements and expectations of its target audience.
+* **Expanded Data Analysis and Visualization:** Include additional data analysis and visualization features to provide users with deeper insights into stock market trends. This could involve more advanced charting techniques, interactive visualizations, correlation analysis, or sector-wise performance analysis. Expanding the range of analytical tools can empower users to make more informed investment decisions.
+* **Risk Assessment and Portfolio Optimization:** Extend the application to include risk assessment and portfolio optimization functionalities. Implement algorithms and models to analyze risk levels, calculate portfolio returns, and suggest optimal investment allocations based on user preferences and risk tolerance.
+* **Integration with Trading Platforms:** Integrate the application with popular trading platforms or brokerage APIs to provide users with a seamless trading experience. This could involve executing trades directly from the application, tracking portfolio performance, or receiving real-time trading alerts based on prediction models.
+
 ## Developed By
 * Mohammed Abdul Zeeshan
 
 ## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License - see the [LICENSE](LICENSE] file for details.
