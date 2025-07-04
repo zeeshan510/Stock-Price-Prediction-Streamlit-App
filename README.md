@@ -44,7 +44,6 @@ The stock market is one of the most dynamic and complex fields of finance, where
 1.  **Clone the repository:**
     ```bash
     git clone [https://github.com/zeeshan510/Stock-Price-Prediction-Streamlit-App.git](https://github.com/zeeshan510/Stock-Price-Prediction-Streamlit-App.git)
-    cd Stock-Price-Prediction-Streamlit-App
     ```
 2.  **Install dependencies:**
     ```bash
@@ -79,4 +78,4 @@ The completion of this stock price prediction project opens up possibilities for
 * Mohammed Abdul Zeeshan
 
 ## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE] file for details.
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
